@@ -1,0 +1,17 @@
+* {
+	text-align: center;
+}
+
+.decr_button {
+	margin: 15px 0;
+	padding: 10px;
+	background-color: #ff0000;
+	color: #fff;
+	/* font-size: 20px; */
+}
+
+.incr_button {
+	margin-right: 15px;
+	background-color: #00b33c;
+	padding: 10px;
+}
